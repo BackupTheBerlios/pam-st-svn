@@ -1,0 +1,9 @@
+/.cvsignore/1.1/Wed May 29 04:40:04 2002//
+/Makefile/1.2/Tue Jan 14 05:43:07 2003//
+/README/1.1/Sun Dec  9 22:15:12 2001//
+/modutil_cleanup.c/1.1/Sun Dec  9 22:15:12 2001//
+/modutil_getlogin.c/1.2/Sun Jul 13 20:01:45 2003//
+/modutil_getpwnam.c/1.1/Sun Dec  9 22:15:12 2001//
+/modutil_getpwuid.c/1.1/Sun Dec  9 22:15:12 2001//
+/pammodutil.h/1.1/Sun Dec  9 22:15:12 2001//
+D
